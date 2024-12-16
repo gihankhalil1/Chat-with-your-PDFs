@@ -1,0 +1,14 @@
+streamlit==1.40.0
+PyPDF2==3.0.1
+langchain==0.0.327
+langchain_google_genai
+langchain_community
+google-generativeai==0.8.3
+faiss-cpu==1.9.0.post1
+python-dotenv==1.0.1
+tenacity==9.0.0
+transformers==4.47.0
+aiohttp==3.11.10
+altair==5.5.0
+dataclasses-json==0.6.7
+rich==13.9.4
