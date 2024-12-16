@@ -4,7 +4,7 @@ Welcome to the **Chat with Your PDFs** application! This project allows you to u
 
 ---
 
-## Features
+## Features ✨
 
 - **Upload Multiple PDFs**: Upload one or more PDF files for processing.
 - **Text Extraction**: Extracts text from the uploaded PDFs for further analysis.
@@ -16,6 +16,14 @@ Welcome to the **Chat with Your PDFs** application! This project allows you to u
 
 ---
 
+## Demo 🚀
+Check out the live demo here: [Chat with your PDFs](https://chat-with-your-pdfs-swklxvulshnme6xmhkgww3.streamlit.app/)
+
+#### Screenshot 📸
+![App Screenshot 1](https://i.ibb.co/dDzJzDz/Screenshot-2024-12-16-045133.png)
+![App Screenshot 2](https://i.ibb.co/hysZzjv/Screenshot-2024-12-16-045058.png)
+
+---
 ## Tech Stack
 
 - **Python**: Core programming language.
@@ -42,7 +50,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/chat-with-pdfs.git
+   git clone https://github.com/gihankhalil1/chat-with-pdfs.git
    cd chat-with-pdfs
    ```
 
@@ -73,7 +81,7 @@ Make sure you have the following installed:
 5. **Run the Application**
 
    ```bash
-   streamlit run app.py
+   streamlit run chatbot.py
    ```
 
 6. **Access the App**
@@ -105,7 +113,7 @@ Make sure you have the following installed:
 
 ```plaintext
 chat-with-pdfs/
-|-- app.py              # Main application file
+|-- achatbot.py         # Main application file
 |-- htmlTemplates.py    # HTML templates for Streamlit UI
 |-- requirements.txt    # Python dependencies
 |-- .env                # Environment variables (not included in repo)
@@ -151,7 +159,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributions
 
-Contributions are welcome! Feel free to open issues or submit pull requests on [GitHub](https://github.com/gihankhalil1/chat-with-pdfs).
+Contributions are welcome 😊! Feel free to open issues or submit pull requests on [GitHub](https://github.com/gihankhalil1/chat-with-pdfs).
 
 ---
 
