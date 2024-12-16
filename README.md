@@ -20,8 +20,9 @@ Welcome to the **Chat with Your PDFs** application! This project allows you to u
 Check out the live demo here: [Chat with your PDFs](https://chat-with-your-pdfs-swklxvulshnme6xmhkgww3.streamlit.app/)
 
 #### Screenshot 📸
-![App Screenshot 1](https://i.ibb.co/dDzJzDz/Screenshot-2024-12-16-045133.png)
-![App Screenshot 2](https://i.ibb.co/hysZzjv/Screenshot-2024-12-16-045058.png)
+![App Screenshot 1](<Screenshot 2024-12-16 045133.png>)
+
+![App Screenshot 2](<Screenshot 2024-12-16 045058.png>)
 
 ---
 ## Tech Stack
